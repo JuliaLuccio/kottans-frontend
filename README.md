@@ -49,9 +49,9 @@ I also highlighted the interesting things about  `git fetch/pull/push origin sou
 
 ## Linux CLI, and HTTP
 
-__Quiz1__ there was the new commands for me `pwd` and `more`.
-__Quiz2__ almost all commands were new to me except `chmod`. But here I was able to understand what these 9 symbols mean and how to edit them.
-__Quiz3__ learned that the command `cat` not only displays the contents of a file, but can also merge files.
+__Quiz1__ there was the new commands for me `pwd` and `more`.  
+__Quiz2__ almost all commands were new to me except `chmod`. But here I was able to understand what these 9 symbols mean and how to edit them.  
+__Quiz3__ learned that the command `cat` not only displays the contents of a file, but can also merge files.  
 __Quiz4__ at this stage all the commands were new. It was educational!
 
 <details>
