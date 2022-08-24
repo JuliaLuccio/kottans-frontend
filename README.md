@@ -2,10 +2,10 @@
 
 ***Thank you for this opportunity to learn!***
 
-## Git and GitHub
+## Git and GitHub &
+## Git Collaboration
 
-<details>
-<summary>ABOUT MY IMPRESSIONS IN DETAIL</summary>
+I don't understand why these chapters have divided into 2 parts and I did all the exercises in one go. :sweat_smile:
 
 ### First step:
 
@@ -17,11 +17,9 @@ It was an interesting experience due to the lab works.
 <details>
 <summary>SEE THE CERTIFICATE</summary>
 
-![Coursera certificate](img/coursera-course.png)
+![Coursera certificate](task_git_collaboration/coursera-course.png)
 
 </details>
-
----
 
 ### Second step:
 
@@ -29,7 +27,7 @@ It was an interesting experience due to the lab works.
 <details>
 <summary>SEE THE SCREENSHOT</summary>
 
-![Learn Git Branching Screenshot](img/gitbranchingBase.png)
+![Learn Git Branching Screenshot](task_git_collaboration/gitbranchingBase.png)
 
 </details>
 
@@ -39,19 +37,22 @@ And understood the difference between `rebace` and `merge`.
 <details>
 <summary>SEE THE SCREENSHOT</summary>
 
-![Learn Git Branching Screenshot](img/gitbranchingRemoteRepo.png)
+![Learn Git Branching Screenshot](task_git_collaboration/gitbranchingRemoteRepo.png)
 
 </details>
 
 I also highlighted the interesting things about  `git fetch/pull/push origin source:destination`
 
-</details>
+---
 
 ## Linux CLI, and HTTP
 
 __Quiz1__ there was the new commands for me `pwd` and `more`.  
+
 __Quiz2__ almost all commands were new to me except `chmod`. But here I was able to understand what these 9 symbols mean and how to edit them.  
+
 __Quiz3__ learned that the command `cat` not only displays the contents of a file, but can also merge files.  
+
 __Quiz4__ at this stage all the commands were new. It was educational!
 
 <details>
