@@ -2,10 +2,13 @@
 
 ***Thank you for this opportunity to learn!***
 
-## Git and GitHub &
-## Git Collaboration
+- [x] [*Git and GitHub, Git Collaboration*](#git-and-github-git-collaboration) 
+- [x] [*Linux CLI, and HTTP*](#linux-cli-and-http) 
+- [x] [*Intro to HTML and CSS*](#intro-to-html-and-css) 
 
-I don't understand why these chapters have divided into 2 parts and I did all the exercises in one go. :sweat_smile:
+## Git and GitHub, Git Collaboration
+
+I don't understand why these chapters have been divided into 2 parts and I did all the exercises in one go. :sweat_smile:
 
 ### First step:
 
@@ -64,3 +67,51 @@ __Quiz4__ at this stage all the commands were new. It was educational!
 ![Learn Linux Commands](task_linux_cli/quiz-4.png)
 
 </details>
+
+___
+
+## Intro to HTML and CSS
+
+### First step:
+
+> **Coursera** https://www.coursera.org/learn/html-css-javascript-for-web-developers/
+
+It was a discovery for me that `div` can be placed inside `a`
+
+I understood how units of measurement work `em`
+
+I saw what would happen if I didn't specify `meta name="viewport"`
+
+<details>
+<summary>SEE THE PROGRESS</summary>
+
+![Coursera week1](task_html_css_intro/coursera_week1.png)
+![Coursera week2](task_html_css_intro/coursera_week2.png)
+
+</details>
+
+
+### Second step: 
+
+> **CodeAcademy HTML** https://www.codecademy.com/learn/learn-html
+
+Learned about the attribute `scope` for `th` and attribute `pattern` for validation form 
+
+<details>
+<summary>SEE THE CERTIFICATE</summary>
+
+![CodeAcademy](task_html_css_intro/codeacademy_html.png)
+
+</details>
+
+### Third step:
+
+> **CodeAcademy CSS** https://www.codecademy.com/learn/learn-css
+
+<details>
+<summary>SEE THE CERTIFICATE</summary>
+
+![CodeAcademy](task_html_css_intro/codeacademy_css.png)
+
+</details>
+
