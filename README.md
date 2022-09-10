@@ -5,6 +5,7 @@
 - [x] [*Git and GitHub, Git Collaboration*](#git-and-github-git-collaboration) 
 - [x] [*Linux CLI, and HTTP*](#linux-cli-and-http) 
 - [x] [*Intro to HTML and CSS*](#intro-to-html-and-css) 
+- [x] [*Responsive Web Design*](#responsive-web-design) 
 
 ## Git and GitHub, Git Collaboration
 
@@ -112,6 +113,26 @@ Learned about the attribute `scope` for `th` and attribute `pattern` for validat
 <summary>SEE THE CERTIFICATE</summary>
 
 ![CodeAcademy](task_html_css_intro/codeacademy_css.png)
+
+</details>
+
+___
+
+## Responsive Web Design
+
+The presented materials turned out to be familiar to me, so I cannot single out anything new for myself
+
+<details>
+<summary>SEE THE SCREENSHOT FLEX FROGGY</summary>
+
+![flex](task_responsive_web_design/flexfroggy.png)
+
+</details>
+
+<details>
+<summary>SEE THE SCREENSHOT GRID GARDEN</summary>
+
+![grid](task_responsive_web_design/gridgarden.png)
 
 </details>
 
