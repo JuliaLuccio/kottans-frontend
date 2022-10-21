@@ -136,3 +136,6 @@ The presented materials turned out to be familiar to me, so I cannot single out 
 
 </details>
 
+___
+
+## JS Basics
